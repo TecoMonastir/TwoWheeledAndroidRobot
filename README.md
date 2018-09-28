@@ -1,4 +1,4 @@
-# Two Wheeled self-balancing Android Robot(with AI)
+# Two Wheeled self-balancing Android Robot
 Two wheeled self balancing robot using the accelerometer in an android SmartPhone
 ## Getting Started
 Your smartphone is a device full of sensors, this project is a simple application of what your device is capable of doing.
