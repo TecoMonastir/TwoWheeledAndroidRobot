@@ -9,6 +9,7 @@ Your smartphone is a device full of sensors, this project is a simple applicatio
 ## Built With
 
 * [miniPID](https://github.com/tekdemo/MiniPID) - PID for regulation
+* [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android-Arduino connection
 
 ## Contributing
 
