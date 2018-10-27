@@ -23,7 +23,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Mohamed Dhia Elhak Besbes**
 * **Marouane dagdoug**
-* **Brahim Abdelkeffi**
 
 
 ## License
